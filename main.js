@@ -9,7 +9,7 @@ function verificarTime() {
 
     
     if (respostaTime.toLowerCase() === "corinthias") {
-      alert("Isso mesmo! O corinthias é o melhor time!");
+      alert("parabéns");
       continuarPerguntando = false; // Sai do loop após a resposta correta
     } else {
       alert("Não é isso! Tente novamente.");
